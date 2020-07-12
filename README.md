@@ -1,3 +1,3 @@
 # php-mvc-intial
 
-Cloning succesful - stage 1
+#Cloning succesful - stage 1
