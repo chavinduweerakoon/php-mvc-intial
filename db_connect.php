@@ -3,8 +3,8 @@
 # Using a PDO allows the same PHP code to work with
 # multiple types of DBs.
 # Make the userid and password constants
-DEFINE ('DB_USER', 'studentweb');
-DEFINE ('DB_PASSWORD', 'TurtleDove');
+DEFINE ('DB_USER', 'root');
+DEFINE ('DB_PASSWORD', '');
 
 # Defines the data source name which is MySQL, local
 # and the DB to use
